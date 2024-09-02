@@ -8,16 +8,22 @@ The Place App is a user-friendly mobile application designed to help you effortl
 
 
 Key Features:
-### Store Places: Save the names and addresses of your favorite places, making it easy to remember and revisit them later.
+### Store Places 
+Save the names and addresses of your favorite places, making it easy to remember and revisit them later.
 
-Select on Map: Easily select and save the exact location of a place on the map. Simply drop a pin on the map to mark the spot.
+### Select on Map 
+Easily select and save the exact location of a place on the map. Simply drop a pin on the map to mark the spot.
 
-Get Current Location: Quickly add your current location to your saved places with just one tap. The app uses GPS to pinpoint your location and allows you to save it instantly.
+### Get Current Location
+Quickly add your current location to your saved places with just one tap. The app uses GPS to pinpoint your location and allows you to save it instantly.
 
-View on Map: Visualize all your saved places on a map. You can easily see the locations you've saved and navigate to them with a simple tap.
+###View on Map
+Visualize all your saved places on a map. You can easily see the locations you've saved and navigate to them with a simple tap.
 
-SQLite Database: All your data is securely stored locally using SQLite, ensuring that your saved places are always available, even offline.
+### SQLite Database
+All your data is securely stored locally using SQLite, ensuring that your saved places are always available, even offline.
 
-Google Maps Integration: The app is powered by Google Maps API, providing accurate and detailed mapping features. This integration ensures that you can select, view, and navigate to your saved places with the best mapping experience.
+### Google Maps Integration
+The app is powered by Google Maps API, providing accurate and detailed mapping features. This integration ensures that you can select, view, and navigate to your saved places with the best mapping experience.
 
-The Place App is your go-to solution for keeping track of important locations, making it easier to organize and revisit the places that matter most to you.
+###The Place App is your go-to solution for keeping track of important locations, making it easier to organize and revisit the places that matter most to you.
