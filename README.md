@@ -20,8 +20,8 @@ Quickly add your current location to your saved places with just one tap. The ap
 ### View on Map
 Visualize all your saved places on a map. You can easily see the locations you've saved and navigate to them with a simple tap.
 
-### SQLite Database
-All your data is securely stored locally using SQLite, ensuring that your saved places are always available, even offline.
+### 'sqflite'
+Place App helps you save and manage favorite locations effortlessly. Store place names, addresses, and exact map locations. Quickly add your current location and view all saved places on a map. Powered by Google Maps API for precise mapping and uses the sqflite package for local storage.
 
 ### Google Maps Integration
 The app is powered by Google Maps API, providing accurate and detailed mapping features. This integration ensures that you can select, view, and navigate to your saved places with the best mapping experience.
