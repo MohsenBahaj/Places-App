@@ -1,5 +1,8 @@
 # Places-App
  Here’s a concise description for your Place App:  Place App allows users to save and manage their favorite locations. Store place names, addresses, select locations on a map, or use current GPS. Data is securely stored using SQLite and integrated with Google Maps for easy navigation and location visualization.
+
+
+#Place-App-Description
 The Place App is a user-friendly mobile application designed to help you effortlessly store and manage your favorite places. Whether it's your favorite restaurant, a memorable travel spot, or a new location you want to remember, the Place App allows you to save and organize places with ease.
 
 Key Features:
