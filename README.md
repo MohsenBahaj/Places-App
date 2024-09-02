@@ -26,4 +26,14 @@ Place App helps you save and manage favorite locations effortlessly. Store place
 ### Google Maps Integration
 The app is powered by Google Maps API, providing accurate and detailed mapping features. This integration ensures that you can select, view, and navigate to your saved places with the best mapping experience.
 
+**Place App** helps you save and manage favorite locations effortlessly. Store place names, addresses, and exact map locations. Quickly add your current location and view all saved places on a map. Powered by Google Maps API for precise mapping and uses the `sqflite` package for local storage.
+
+**Installation:**
+- **Get API Key**: Obtain a Google Maps API key from the [Google Cloud Console](https://console.cloud.google.com/).
+- **Enable APIs**: Enable Maps SDK for Android and iOS, and Static Maps API.
+- **Add API Key**: Insert your API key into `AndroidManifest.xml` for Android and `AppDelegate.swift` for iOS. 
+
+Ensure to follow the Google Maps documentation for detailed steps.
+
+
 ### The Place App is your go-to solution for keeping track of important locations, making it easier to organize and revisit the places that matter most to you.
